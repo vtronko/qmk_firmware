@@ -1,0 +1,10 @@
+# UNICODEMAP_ENABLE = yes
+
+SRC += muse.c
+
+TAP_DANCE_ENABLE = yes
+CONSOLE_ENABLE = no 
+
+BOOTMAGIC_ENABLE = lite
+
+LEADER_ENABLE = yes
